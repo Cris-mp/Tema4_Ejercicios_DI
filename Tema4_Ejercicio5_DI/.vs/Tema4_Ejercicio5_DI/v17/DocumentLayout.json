@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanm\\Dropbox\\(DI)Desenvolvemento_de_interfaces\\Tema4_Componentes\\Tema4_Ejercicios\\Tema4_Ejercicio5_DI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA760752-1079-491A-9CCE-66D2207C8FDE}|Tema4_Ejercicio5_DI\\Tema4_Ejercicio5_DI.csproj|c:\\users\\juanm\\dropbox\\(di)desenvolvemento_de_interfaces\\tema4_componentes\\tema4_ejercicios\\tema4_ejercicio5_di\\tema4_ejercicio5_di\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA760752-1079-491A-9CCE-66D2207C8FDE}|Tema4_Ejercicio5_DI\\Tema4_Ejercicio5_DI.csproj|solutionrelative:tema4_ejercicio5_di\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA760752-1079-491A-9CCE-66D2207C8FDE}|Tema4_Ejercicio5_DI\\Tema4_Ejercicio5_DI.csproj|C:\\Users\\juanm\\Dropbox\\(DI)Desenvolvemento_de_interfaces\\Tema4_Componentes\\Tema4_Ejercicios\\Tema4_Ejercicio5_DI\\tema4_ejercicio5_di\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA760752-1079-491A-9CCE-66D2207C8FDE}|Tema4_Ejercicio5_DI\\Tema4_Ejercicio5_DI.csproj|solutionrelative:tema4_ejercicio5_di\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\Dropbox\\(DI)Desenvolvemento_de_interfaces\\Tema4_Componentes\\Tema4_Ejercicios\\Tema4_Ejercicio5_DI\\Tema4_Ejercicio5_DI\\Form1.cs",
+              "RelativeDocumentMoniker": "Tema4_Ejercicio5_DI\\Form1.cs",
+              "ToolTip": "C:\\Users\\juanm\\Dropbox\\(DI)Desenvolvemento_de_interfaces\\Tema4_Componentes\\Tema4_Ejercicios\\Tema4_Ejercicio5_DI\\Tema4_Ejercicio5_DI\\Form1.cs",
+              "RelativeToolTip": "Tema4_Ejercicio5_DI\\Form1.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwE4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:52:24.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\Dropbox\\(DI)Desenvolvemento_de_interfaces\\Tema4_Componentes\\Tema4_Ejercicios\\Tema4_Ejercicio5_DI\\Tema4_Ejercicio5_DI\\Form1.cs",
+              "RelativeDocumentMoniker": "Tema4_Ejercicio5_DI\\Form1.cs",
+              "ToolTip": "C:\\Users\\juanm\\Dropbox\\(DI)Desenvolvemento_de_interfaces\\Tema4_Componentes\\Tema4_Ejercicios\\Tema4_Ejercicio5_DI\\Tema4_Ejercicio5_DI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tema4_Ejercicio5_DI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:37:48.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

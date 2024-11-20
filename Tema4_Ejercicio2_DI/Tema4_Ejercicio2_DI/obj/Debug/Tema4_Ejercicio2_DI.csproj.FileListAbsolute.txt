@@ -1,0 +1,10 @@
+C:\Users\Cristina\source\repos\Tema4_Ejercicio2_DI\Tema4_Ejercicio2_DI\bin\Debug\Tema4_Ejercicio2_DI.exe.config
+C:\Users\Cristina\source\repos\Tema4_Ejercicio2_DI\Tema4_Ejercicio2_DI\bin\Debug\Tema4_Ejercicio2_DI.exe
+C:\Users\Cristina\source\repos\Tema4_Ejercicio2_DI\Tema4_Ejercicio2_DI\bin\Debug\Tema4_Ejercicio2_DI.pdb
+C:\Users\Cristina\source\repos\Tema4_Ejercicio2_DI\Tema4_Ejercicio2_DI\obj\Debug\Tema4_Ejercicio2_DI.csproj.AssemblyReference.cache
+C:\Users\Cristina\source\repos\Tema4_Ejercicio2_DI\Tema4_Ejercicio2_DI\obj\Debug\Tema4_Ejercicio2_DI.Form1.resources
+C:\Users\Cristina\source\repos\Tema4_Ejercicio2_DI\Tema4_Ejercicio2_DI\obj\Debug\Tema4_Ejercicio2_DI.Properties.Resources.resources
+C:\Users\Cristina\source\repos\Tema4_Ejercicio2_DI\Tema4_Ejercicio2_DI\obj\Debug\Tema4_Ejercicio2_DI.csproj.GenerateResource.cache
+C:\Users\Cristina\source\repos\Tema4_Ejercicio2_DI\Tema4_Ejercicio2_DI\obj\Debug\Tema4_Ejercicio2_DI.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\source\repos\Tema4_Ejercicio2_DI\Tema4_Ejercicio2_DI\obj\Debug\Tema4_Ejercicio2_DI.exe
+C:\Users\Cristina\source\repos\Tema4_Ejercicio2_DI\Tema4_Ejercicio2_DI\obj\Debug\Tema4_Ejercicio2_DI.pdb
